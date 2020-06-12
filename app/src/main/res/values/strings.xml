@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Muntanyes</string>
+    <string name="title_placeholder">Títol</string>
+    <string name="news_placeholder">Notícies</string>
+    <string name="mountains_info_placeholder">Aquí hi ha notícies</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Praesent ultrices congue rutrum.
+        Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend
+        eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum
+        blandit, dolor diam fringilla tellus, eu euismod mauris neque
+        at neque.</string>
+
+    <string-array name="mountains_titles">
+        <item>Aneto</item>
+        <item>Pedraforca</item>
+        <item>Sant Llorenç</item>
+        </string-array>
+
+    <string-array name="mountains_info">
+        <item>Aquí hi ha notícies del Aneto!</item>
+        <item>Aquí hi ha notícies del Pedraforca!</item>
+        <item>Aquí hi ha notícies de Sant Llorenç!</item>
+    </string-array>
+
+
+    <array name="mountains_images">
+        <item>@drawable/img_aneto</item>
+        <item>@drawable/img_pedraforca</item>
+        <item>@drawable/img_santlo</item>
+    </array>
+
+
+</resources>
